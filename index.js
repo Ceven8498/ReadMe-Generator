@@ -32,9 +32,6 @@ function promptUser(){
             name: "license",
             message: "Chose the appropriate license for this project: ",
             choices: [
-                "Apache",
-                "Academic",
-                "GNU",
                 "ISC",
                 "MIT",
                 "Mozilla",
