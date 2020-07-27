@@ -27,12 +27,10 @@ THEN I am taken to the corresponding section of the README
 # Video Demostration
 https://youtu.be/ErpEsDU9gnA
 
-Show how to read code.
+Video Demostraites how to use code.
 
 # Location of Generated ReadMe
 Generated Readme is made inside /dist folder
-
-Video Demostraites how to use code.
 
 # Requires
  Inquirer -- For User Input
